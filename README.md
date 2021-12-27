@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Vinícius Pereira 🤙😊
+### Olá! Eu sou Vinícius Pereira ou "Vinnie" 🤙😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira-9b77b01a9/)
 
