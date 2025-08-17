@@ -46,7 +46,7 @@ Desenvolvedor Front-End **motivado e dedicado** a construir interfaces funcionai
 
 ## 💼 Projetos em Destaque
 
-### 🖼️ [Descritor de Imagens](https://github.com/ViniciusGCP94/descritor-imagens)
+### 🖼️ [Descritor de Imagens](https://github.com/ViniciusGCP94/img_description)
 **Aplicação React com IA para geração de descrições de imagens**
 
 - 🤖 **Integração com API Gemini 2.0** para processamento de imagens
@@ -56,7 +56,7 @@ Desenvolvedor Front-End **motivado e dedicado** a construir interfaces funcionai
 
 **Tech Stack:** React, Tailwind CSS, API Gemini 2.0, JavaScript ES6+
 
-### 💳 [Validador de Cartão de Crédito](https://github.com/ViniciusGCP94/validador-cartao)
+### 💳 [Validador de Cartão de Crédito](https://github.com/ViniciusGCP94/validador_De_Cartao_de_Credito)
 **Sistema de validação em tempo real usando algoritmo de Luhn**
 
 - ⚡ **Validação em tempo real** com feedback dinâmico
@@ -116,7 +116,7 @@ Desenvolvedor Front-End **motivado e dedicado** a construir interfaces funcionai
 
 ## 🎯 O que procuro
 
-Busco uma **oportunidade de estágio** onde posso:
+Busco uma **oportunidade de estágio** onde possa:
 - 💡 **Aplicar conhecimentos** em projetos reais
 - 📈 **Crescer profissionalmente** com mentoria
 - 🤝 **Colaborar** em equipe ágil
