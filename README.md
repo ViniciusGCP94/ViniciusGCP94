@@ -17,7 +17,7 @@ Desenvolvedor Front-End **motivado e dedicado** a construir interfaces funcionai
 - 🎯 **Objetivo:** Primeira oportunidade de estágio em Front-End
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (em andamento)
 - 🌱 **Foco atual:** Aprimorando habilidades em React e boas práticas
-- 📍 **Localização:** Dona Carlota, Santa Cruz do Sul - RS
+- 📍 **Localização:** Santa Cruz do Sul - RS
 
 ## 🛠️ Tecnologias & Ferramentas
 
