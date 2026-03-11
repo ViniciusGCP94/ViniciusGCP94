@@ -14,7 +14,7 @@ Desenvolvedor Front-End **motivado e dedicado** a construir interfaces funcionai
 
 ## 🌐 **[Conheça meu portfólio completo](http://vinniedev.com.br/)**
 
-- 🎯 **Objetivo:** Primeira oportunidade de estágio em Front-End
+- 🎯 **Objetivo:** Primeira oportunidade como Front-End Júnior
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (em andamento)
 - 🌱 **Foco atual:** Aprimorando habilidades em React e boas práticas
 - 📍 **Localização:** Santa Cruz do Sul - RS
@@ -138,4 +138,5 @@ Estou sempre aberto para discutir oportunidades, projetos ou trocar experiência
   <i>"Cada linha de código é uma oportunidade de criar algo incrível!"</i>
   
   ⭐ **Disponível para estágio ou júnior imediato** ⭐
+
 </div>
