@@ -102,13 +102,6 @@ Desenvolvedor **Fullstack JavaScript** em transição de carreira, construindo a
 - **🎨 Ri Happy - Front-end do Zero** | DIO - 75h
 - **🤖 Microsoft 50 Anos - GitHub Copilot** | DIO - 17h
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGCP94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGCP94&layout=compact&theme=dracula"/>
-</div>
-
 ## 🎯 O que procuro
 
 Busco uma **oportunidade júnior fullstack ou front-end** onde possa:
