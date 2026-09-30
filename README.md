@@ -84,10 +84,10 @@ Desenvolvedor **Fullstack JavaScript** em transição de carreira, construindo a
 
 ## 🎓 Formação Acadêmica
 
-**📚 Análise e Desenvolvimento de Sistemas** *(EAD)* *2026* 
+**📚 Análise e Desenvolvimento de Sistemas** - *2026* -
 *Faculdade Impacta Tecnologia*
 
-**📚 Formação Full-Stack JavaScript Empower 5.0**
+**📚 Formação Full-Stack JavaScript Empower 5.0** -
 *Kodie Academy*
 
 ## 🏆 Certificações
