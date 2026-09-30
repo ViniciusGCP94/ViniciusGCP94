@@ -52,7 +52,7 @@ Desenvolvedor **Fullstack JavaScript** em transição de carreira, construindo a
 
 ## 💼 Projetos em Destaque
 
-### 🆘 [Sentinela de Resgate](https://github.com/ViniciusGCP94)
+### 🆘 [Sentinela de Resgate](https://github.com/ViniciusGCP94/sentinela-de-resgate)
 **Plataforma fullstack de gestão de emergências, inspirada nas enchentes de 2024 no RS**
 
 - 🔐 **JWT + RBAC** para diferenciar perfis de Agente Comunitário de Saúde e Defesa Civil
@@ -62,7 +62,7 @@ Desenvolvedor **Fullstack JavaScript** em transição de carreira, construindo a
 
 **Tech Stack:** Node.js, Express, PostgreSQL, JWT, bcryptjs, React, Vite, React Router DOM
 
-### 🤝 [Plataforma Connect](https://github.com/ViniciusGCP94)
+### 🤝 [Plataforma Connect - Frontend](https://github.com/ViniciusGCP94/plataforma-connect)[Plataforma Connect - Backend](https://github.com/ViniciusGCP94/API-Plataforma-connect)
 **Plataforma social de voluntariado — API REST e SPA em repositórios separados**
 
 - 🛡️ **Correção de 3 vulnerabilidades IDOR** reais, movendo IDs sensíveis para o payload do JWT
