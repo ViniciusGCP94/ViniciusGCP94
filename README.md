@@ -21,7 +21,7 @@ Desenvolvedor **Fullstack JavaScript** em transição de carreira, construindo a
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGCP94&langs_count=8)](https://github.com/ViniciusGCP94/github-readme-stats)
+![Fullstack Javascript](https://img.shields.io/badge/Fullstack-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -62,7 +62,7 @@ Desenvolvedor **Fullstack JavaScript** em transição de carreira, construindo a
 
 **Tech Stack:** Node.js, Express, PostgreSQL, JWT, bcryptjs, React, Vite, React Router DOM
 
-### 🤝 [Plataforma Connect - Frontend](https://github.com/ViniciusGCP94/plataforma-connect)[Plataforma Connect - Backend](https://github.com/ViniciusGCP94/API-Plataforma-connect)
+### 🤝 [Plataforma Connect] - [Frontend](https://github.com/ViniciusGCP94/plataforma-connect) [Backend](https://github.com/ViniciusGCP94/API-Plataforma-connect)
 **Plataforma social de voluntariado — API REST e SPA em repositórios separados**
 
 - 🛡️ **Correção de 3 vulnerabilidades IDOR** reais, movendo IDs sensíveis para o payload do JWT
